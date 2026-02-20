@@ -269,7 +269,7 @@ The predicted_true chart compares predictions against true values.
   },
   "GlobalParameters": 1.0
 }
-
+```
 5. Click **Test**.
 
 6. Review the results.
@@ -282,7 +282,7 @@ Example output:
     444.27799000000000
   ]
 }
-
+```
 The model returns a predicted number of bicycle rentals based on the input features.
 
 ---
