@@ -79,7 +79,10 @@ https://ml.azure.com
 ## Task 2 – Enable Preview Features
 
 1. In Azure Machine Learning Studio, click **Manage preview features** (loudspeaker icon).
-2. Enable the following preview feature:
+
+<img width="211" height="52" alt="image" src="https://github.com/user-attachments/assets/4cfee6be-b2cb-4052-9888-dc8a03c34cea" />
+
+3. Enable the following preview feature:
 
 - **Guided experience for submitting training jobs with serverless compute**
 
@@ -208,12 +211,15 @@ Wait for completion.
 
 1. When the job completes, open the **Overview** tab.
 2. Review the **Best model summary**.
-3. If you see the message  
+
+<img width="1845" height="963" alt="image" src="https://github.com/user-attachments/assets/d4d636a4-0166-4f1e-8074-20b0203de5d6" />
+
+4. If you see the message  
    *“Warning: User specified exit score reached…”*  
    continue to the next step.
-4. Select the **Algorithm name** of the best model.
-5. Select the **Metrics** tab.
-6. Review:
+5. Select the **Algorithm name** of the best model.
+6. Select the **Metrics** tab.
+7. Review:
    - **Residuals chart**
    - **Predicted vs True chart**
 
