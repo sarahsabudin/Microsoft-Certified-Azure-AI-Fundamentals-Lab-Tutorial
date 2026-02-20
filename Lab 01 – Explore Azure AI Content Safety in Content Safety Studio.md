@@ -33,12 +33,17 @@ By completing this lab, you will:
 
 ## Task 1 – Navigate the Content Safety Studio
 
+<img width="975" height="801" alt="image" src="https://github.com/user-attachments/assets/d7d0c41f-55fb-4317-8f44-56c5174b06ba" />
+
 1. Open the **Content Safety Studio**.
 2. If you are not logged in, select **Sign In** in the top right corner of the screen.
 3. Use the email and password associated with your Azure subscription to sign in.
 4. On the menu at the top of the screen, click the icon on the left of **Azure AI**.
 5. Observe the drop-down list of other studios designed for development with Azure AI services.
 6. Click the icon again to hide the list.
+   
+<img width="975" height="587" alt="image" src="https://github.com/user-attachments/assets/b1dfe2b4-e5b9-4ad6-934a-7e328fde996c" />
+
 
 ---
 
@@ -49,11 +54,18 @@ Before using the studio, you must associate an Azure AI services resource with i
 In this lab, you will create a **single-service Content Safety resource**.
 
 1. On the top right of the screen, click the **Settings** icon.
-2. On the Settings page, locate the **Directory** tab and **Resource** tab.
-3. Select the **Resource** tab.
-4. Click **Create a new resource**.
+
+<img width="695" height="120" alt="image" src="https://github.com/user-attachments/assets/0ab6b489-ab8a-4592-aead-bc0e6bfec1c5" />
+
+3. On the Settings page, locate the **Directory** tab and **Resource** tab.
+4. Select the **Resource** tab.
+5. Click **Create a new resource**.
 
 > Note: The Directory tab allows users to select different directories. You do not need to change it unless you want to use a different directory.
+> 
+
+<img width="975" height="411" alt="image" src="https://github.com/user-attachments/assets/a05ef320-3894-45ca-8a9f-2c82fe692e3b" />
+
 
 5. In the Azure Portal, on the **Create Content Safety** page, configure the following settings:
 
